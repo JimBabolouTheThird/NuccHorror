@@ -1,0 +1,4 @@
+repository "NuccHorror@Jebidiya@cloud"
+  path "/"
+    br "/main"
+    co "/main"
